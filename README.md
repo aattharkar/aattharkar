@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aattharkar
+- 👋 Hi, I’m @asmita
 - 👀 I’m interested in software development projects
 - 🌱 I’m currently learning cloud computing, machine learning and deep coding concepts
 - 💞️ I’m looking to collaborate on ...angular projects, cloud based projects
