@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asmita- I am brown skinned, immigrant, a wife, a mom of two boys - high schooler and elementary schooler. 
 - I am multi lingual - Can speak Hindi, English, Marathi, Telugu rather fluently and can understand few other sub-indian languages.
-- I do wear reading glasses now - well my childhood wish came true, Because I thought it was cool to wear glasses.
-- I love music, listening and singing vocal. Love for music started with listening to Bollywood songs growing up.
+- I do wear reading glasses now - well my childhood wish came true, because I thought it was cool to wear glasses.
+- I love music, listening and singing vocal. Love for music started with listening to Bollywood songs and hearing mom sing when growing up.
 - 👀 I’m interested in software development projects, I love to learn. Learn anything and everything. 
 - 🌱 I’m currently learning cloud computing, machine learning and deep coding concepts , Also going through Hindustani classical vocal training
 - 💞️ I’m looking to collaborate on ...angular projects, cloud based projects, any designing an application
